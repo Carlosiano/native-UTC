@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      ionicons:
+        specifier: 4.4.2
+        version: 4.4.2
+
+packages:
+
+  ionicons@4.4.2:
+    resolution: {integrity: sha512-GAjQlKNOBynMzsWMXOsorKjkcKhsFP+3nuHkGVDDEfCFZNns7s1wW3lL8tfWXX9DNmUG2QfbCcKtTk0ivzyncQ==}
+
+snapshots:
+
+  ionicons@4.4.2: {}
